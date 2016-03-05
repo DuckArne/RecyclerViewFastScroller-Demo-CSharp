@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="fastScrollHandleColor">#cff2ff</color>
+	<color name="fastScrollBarColor">#ffcecece</color>
+</resources>

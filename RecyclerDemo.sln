@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecyclerDemo", "RecyclerDemo.csproj", "{208BF76B-933B-42E8-BF9F-E9DE62C8AE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecyclerViewFastScroller", "..\RecyclerViewFastScroller\RecyclerViewFastScroller.csproj", "{FACCE288-709E-412F-8388-E6434BF9436E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208BF76B-933B-42E8-BF9F-E9DE62C8AE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208BF76B-933B-42E8-BF9F-E9DE62C8AE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208BF76B-933B-42E8-BF9F-E9DE62C8AE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208BF76B-933B-42E8-BF9F-E9DE62C8AE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACCE288-709E-412F-8388-E6434BF9436E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACCE288-709E-412F-8388-E6434BF9436E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACCE288-709E-412F-8388-E6434BF9436E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACCE288-709E-412F-8388-E6434BF9436E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
